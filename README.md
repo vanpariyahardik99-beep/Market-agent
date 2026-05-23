@@ -1,3 +1,12 @@
+---
+title: Market Agent India
+emoji: 📈
+colorFrom: blue
+colorTo: green
+sdk: docker
+pinned: false
+---
+
 # Indian Stock Market Research Agent
 
 This is a local research agent for Indian equities. It is designed to be selective: it can skip trades unless technicals, fundamentals, valuation, institutional flow context, and news sentiment align.
